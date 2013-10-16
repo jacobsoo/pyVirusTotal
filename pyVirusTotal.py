@@ -2,7 +2,7 @@ import simplejson, optparse, mimetypes, httplib
 import urllib
 import urllib2
 
-apikey = "f182df1bff1285e3315e734381a1109267f898c78ff01629d6539bf62db9b1fd"
+apikey = <your_API_key>
 
 # Banner
 def Banner():
